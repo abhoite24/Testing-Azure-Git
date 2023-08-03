@@ -1,0 +1,49 @@
+﻿AccountName,AsOfDate
+"John Client-2345683
+
+Reporting Currency: Canadian Dollar",From: 2018-08-26 To: 2020-08-26
+
+Textbox44,Currency,TransactionType,TradeDate,SettleDate,SecurityName,PricePerSecurity1,Quantity,SettlementAmount,RealizedGainLoss,TotalTransactionType,TotalSettlementAmount,TotalRealizedGain
+Realized Gain /Loss (CAD),CAD Canadian Dollar,Buy,08/31/2018,08/31/2018,Mawer Global Balanced Fund Series A,$15.7001,8.5668,$134.50,$0.00,Total Buy,"$13,946.74",$0.00
+Realized Gain /Loss (CAD),CAD Canadian Dollar,Buy,09/28/2018,09/28/2018,Mawer Global Balanced Fund Series A,$15.5344,8.4818,$131.76,$0.00,Total Buy,"$13,946.74",$0.00
+Realized Gain /Loss (CAD),CAD Canadian Dollar,Buy,10/31/2018,10/31/2018,Mawer Global Balanced Fund Series A,$15.0715,6.7100,$101.13,$0.00,Total Buy,"$13,946.74",$0.00
+Realized Gain /Loss (CAD),CAD Canadian Dollar,Buy,11/30/2018,11/30/2018,Mawer Global Balanced Fund Series A,$15.4572,2.6900,$41.58,$0.00,Total Buy,"$13,946.74",$0.00
+Realized Gain /Loss (CAD),CAD Canadian Dollar,Buy,12/19/2018,12/19/2018,Mawer Canadian Equity Fund Series A,$60.1209,25.9981,"$1,563.03",$0.00,Total Buy,"$13,946.74",$0.00
+Realized Gain /Loss (CAD),CAD Canadian Dollar,Buy,12/19/2018,12/19/2018,Mawer Global Balanced Fund Series A,$14.9569,59.6099,$891.58,$0.00,Total Buy,"$13,946.74",$0.00
+Realized Gain /Loss (CAD),CAD Canadian Dollar,Buy,12/19/2018,12/19/2018,Mawer Global Balanced Fund Series A,$14.9569,7.4287,$111.11,$0.00,Total Buy,"$13,946.74",$0.00
+Realized Gain /Loss (CAD),CAD Canadian Dollar,Buy,12/19/2018,12/19/2018,Mawer Global Equity Fund Series A,$26.9047,84.6878,"$2,278.50",$0.00,Total Buy,"$13,946.74",$0.00
+Realized Gain /Loss (CAD),CAD Canadian Dollar,Buy,12/19/2018,12/19/2018,Mawer Global Equity Fund Series A,$26.9047,37.9573,"$1,021.23",$0.00,Total Buy,"$13,946.74",$0.00
+Realized Gain /Loss (CAD),CAD Canadian Dollar,Buy,12/19/2018,12/19/2018,Mawer Global Small Cap Fund Series A,$14.2388,177.5740,"$2,528.44",$0.00,Total Buy,"$13,946.74",$0.00
+Realized Gain /Loss (CAD),CAD Canadian Dollar,Buy,12/19/2018,12/19/2018,Mawer Global Small Cap Fund Series A,$14.2388,20.8634,$297.07,$0.00,Total Buy,"$13,946.74",$0.00
+Realized Gain /Loss (CAD),CAD Canadian Dollar,Buy,12/19/2018,12/19/2018,Mawer International Equity Fund Series A,$55.5111,38.4667,"$2,135.33",$0.00,Total Buy,"$13,946.74",$0.00
+Realized Gain /Loss (CAD),CAD Canadian Dollar,Buy,12/19/2018,12/19/2018,Mawer International Equity Fund Series A,$55.5113,7.2742,$403.80,$0.00,Total Buy,"$13,946.74",$0.00
+Realized Gain /Loss (CAD),CAD Canadian Dollar,Buy,12/19/2018,12/19/2018,Mawer New Canada Fund Series A,$65.8670,13.5561,$892.90,$0.00,Total Buy,"$13,946.74",$0.00
+Realized Gain /Loss (CAD),CAD Canadian Dollar,Buy,12/19/2018,12/19/2018,Mawer New Canada Fund Series A,$65.8667,2.9625,$195.13,$0.00,Total Buy,"$13,946.74",$0.00
+Realized Gain /Loss (CAD),CAD Canadian Dollar,Buy,12/19/2018,12/19/2018,Mawer US Equity Fund Series A,$48.3752,5.6930,$275.40,$0.00,Total Buy,"$13,946.74",$0.00
+Realized Gain /Loss (CAD),CAD Canadian Dollar,Buy,12/19/2018,12/19/2018,Mawer US Equity Fund Series A,$48.3751,1.6432,$79.49,$0.00,Total Buy,"$13,946.74",$0.00
+Realized Gain /Loss (CAD),CAD Canadian Dollar,Buy,01/31/2019,01/31/2019,Mawer Global Balanced Fund Series A,$15.3812,7.6288,$117.34,$0.00,Total Buy,"$13,946.74",$0.00
+Realized Gain /Loss (CAD),CAD Canadian Dollar,Buy,02/28/2019,02/28/2019,Mawer Global Balanced Fund Series A,$15.7508,1.9745,$31.10,$0.00,Total Buy,"$13,946.74",$0.00
+Realized Gain /Loss (CAD),CAD Canadian Dollar,Buy,03/29/2019,03/29/2019,Mawer Global Balanced Fund Series A,$16.1375,12.3191,$198.80,$0.00,Total Buy,"$13,946.74",$0.00
+Realized Gain /Loss (CAD),CAD Canadian Dollar,Buy,04/30/2019,04/30/2019,Mawer Global Balanced Fund Series A,$16.4577,31.4455,$517.52,$0.00,Total Buy,"$13,946.74",$0.00
+Realized Gain /Loss (CAD),CAD Canadian Dollar,Dividend,08/31/2018,08/31/2018,Mawer Global Balanced Fund Series A Income,,"11,203.4530",$134.50,$0.00,Total Dividend,"$13,946.74",$0.00
+Realized Gain /Loss (CAD),CAD Canadian Dollar,Dividend,09/28/2018,09/28/2018,Mawer Global Balanced Fund Series A Income,,"11,212.0198",$131.76,$0.00,Total Dividend,"$13,946.74",$0.00
+Realized Gain /Loss (CAD),CAD Canadian Dollar,Dividend,10/31/2018,10/31/2018,Mawer Global Balanced Fund Series A Income,,"11,220.5016",$101.13,$0.00,Total Dividend,"$13,946.74",$0.00
+Realized Gain /Loss (CAD),CAD Canadian Dollar,Dividend,11/30/2018,11/30/2018,Mawer Global Balanced Fund Series A Income,,"11,227.2116",$41.58,$0.00,Total Dividend,"$13,946.74",$0.00
+Realized Gain /Loss (CAD),CAD Canadian Dollar,Dividend,12/19/2018,12/19/2018,Mawer Canadian Equity Fund Series A Income,,"1,748.2770","$1,563.03",$0.00,Total Dividend,"$13,946.74",$0.00
+Realized Gain /Loss (CAD),CAD Canadian Dollar,Dividend,12/19/2018,12/19/2018,Mawer Global Balanced Fund Series A Capital Gain,,"11,229.9016",$891.58,$0.00,Total Dividend,"$13,946.74",$0.00
+Realized Gain /Loss (CAD),CAD Canadian Dollar,Dividend,12/19/2018,12/19/2018,Mawer Global Balanced Fund Series A Income,,"11,229.9016",$111.11,$0.00,Total Dividend,"$13,946.74",$0.00
+Realized Gain /Loss (CAD),CAD Canadian Dollar,Dividend,12/19/2018,12/19/2018,Mawer Global Equity Fund Series A Capital Gain,,"9,369.7571","$2,278.50",$0.00,Total Dividend,"$13,946.74",$0.00
+Realized Gain /Loss (CAD),CAD Canadian Dollar,Dividend,12/19/2018,12/19/2018,Mawer Global Equity Fund Series A Income,,"9,369.7571","$1,021.23",$0.00,Total Dividend,"$13,946.74",$0.00
+Realized Gain /Loss (CAD),CAD Canadian Dollar,Dividend,12/19/2018,12/19/2018,Mawer Global Small Cap Fund Series A Capital Gain,,"2,876.1272","$2,528.44",$0.00,Total Dividend,"$13,946.74",$0.00
+Realized Gain /Loss (CAD),CAD Canadian Dollar,Dividend,12/19/2018,12/19/2018,Mawer Global Small Cap Fund Series A Income,,"2,876.1272",$297.07,$0.00,Total Dividend,"$13,946.74",$0.00
+Realized Gain /Loss (CAD),CAD Canadian Dollar,Dividend,12/19/2018,12/19/2018,Mawer International Equity Fund Series A Capital Gain,,"1,019.8878","$2,135.33",$0.00,Total Dividend,"$13,946.74",$0.00
+Realized Gain /Loss (CAD),CAD Canadian Dollar,Dividend,12/19/2018,12/19/2018,Mawer International Equity Fund Series A Income,,"1,019.8878",$403.80,$0.00,Total Dividend,"$13,946.74",$0.00
+Realized Gain /Loss (CAD),CAD Canadian Dollar,Dividend,12/19/2018,12/19/2018,Mawer New Canada Fund Series A Capital Gain,,647.1876,$892.90,$0.00,Total Dividend,"$13,946.74",$0.00
+Realized Gain /Loss (CAD),CAD Canadian Dollar,Dividend,12/19/2018,12/19/2018,Mawer New Canada Fund Series A Income,,647.1876,$195.13,$0.00,Total Dividend,"$13,946.74",$0.00
+Realized Gain /Loss (CAD),CAD Canadian Dollar,Dividend,12/19/2018,12/19/2018,Mawer US Equity Fund Series A Capital Gain,,"2,009.1194",$275.40,$0.00,Total Dividend,"$13,946.74",$0.00
+Realized Gain /Loss (CAD),CAD Canadian Dollar,Dividend,12/19/2018,12/19/2018,Mawer US Equity Fund Series A Income,,"2,009.1194",$79.49,$0.00,Total Dividend,"$13,946.74",$0.00
+Realized Gain /Loss (CAD),CAD Canadian Dollar,Dividend,01/31/2019,01/31/2019,Mawer Global Balanced Fund Series A Income,,"11,296.9402",$117.34,$0.00,Total Dividend,"$13,946.74",$0.00
+Realized Gain /Loss (CAD),CAD Canadian Dollar,Dividend,02/28/2019,02/28/2019,Mawer Global Balanced Fund Series A Income,,"11,304.5690",$31.10,$0.00,Total Dividend,"$13,946.74",$0.00
+Realized Gain /Loss (CAD),CAD Canadian Dollar,Dividend,03/29/2019,03/29/2019,Mawer Global Balanced Fund Series A Income,,"11,306.5435",$198.80,$0.00,Total Dividend,"$13,946.74",$0.00
+Realized Gain /Loss (CAD),CAD Canadian Dollar,Dividend,04/30/2019,04/30/2019,Mawer Global Balanced Fund Series A Income,,"11,318.8626",$517.52,$0.00,Total Dividend,"$13,946.74",$0.00
+
